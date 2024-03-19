@@ -1,0 +1,12 @@
+<?php
+//CRIANDO VARIAVEL DE VARIAVEL
+
+$x = "nome"; //PRIMEIRA VARIAVEL GUARDA O NOME DA VARIAVEL
+
+echo "$x <br>";
+
+$$x = "Cássia"; // SEGUNDA VARIAVEL - VARIAVEL DA VARIAVEL x (NOME), COM O VALOR DE CÁSSIA
+
+echo "$nome <br>";
+
+?>
